@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^18.9.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "week2jspracticepart2",
+  "version": "1.0.0",
+  "description": "Week2Part2",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awasjo/COMP229002Week2.git"
+  },
+  "author": "Awas Jomail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awasjo/COMP229002Week2/issues"
+  },
+  "homepage": "https://github.com/Awasjo/COMP229002Week2#readme"
+}
